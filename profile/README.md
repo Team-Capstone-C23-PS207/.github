@@ -1,12 +1,22 @@
-## Hi there 👋
+### Hello Everyone 👋
 
-<!--
+We are from the Capstone Project team of Bangkit 
+#### Team ID 🙂: C23-PS207
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Team Members :
+| Name                               | Bangkit ID  | Learning Path    |
+| ---------------------------------- | ----------- | -----------------|
+| Charlenedita Riyanne. T            | A155DSY2288 |MOBILE DEVELOPMENT|
+| MUHAMMAD ANUGRAH PANGESTU          | A346DSX3070 |MOBILE DEVELOPMENT|
+| ADI IRAWAN                         | M282DSX0365 |MACHINE LEARNING  |
+| DWI DUTA MAHARDEWANTORO            | M248DSX2818 |MACHINE LEARNING  |
+| AULIA MIFTAHUL ZANAH               | C058DSY0888 |CLOUD COMPUTNG    |
+| DHICKY MAHESYA TEGAR SURYA PRAMANA | C058DSX0887 |CLOUD COMPUTNG    |
+
+
+
+### Theme Capstone 🎉✨
+renewable energy and sustainable ecosystem
+
+

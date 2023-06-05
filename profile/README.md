@@ -15,6 +15,9 @@ Team Members :
 | DHICKY MAHESYA TEGAR SURYA PRAMANA | C058DSX0887 |CLOUD COMPUTING   |
 
 
+### Apps Name 📱
+**Scum Recycle**
+- **Basis** : Android Apps
 
 ### Theme Capstone 🎉✨
 renewable energy and sustainable ecosystem

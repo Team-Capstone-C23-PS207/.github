@@ -22,4 +22,9 @@ Team Members :
 ### Theme Capstone 🎉✨
 renewable energy and sustainable ecosystem
 
+### Documentation
+- [APK ScumRecycle](https://github.com/Team-Capstone-C23-PS207/FrontEnd_Android_Repository)
+- [API ScumRecycle](https://github.com/Team-Capstone-C23-PS207/Back-End-API)
+- [Dataset And Model ScumRecycle](https://github.com/Team-Capstone-C23-PS207/Model-Dataset-ML)
+
 
